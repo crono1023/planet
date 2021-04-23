@@ -12,7 +12,7 @@ class Planet {
 
     private:
         string name;
-        int position;
+        unsigned position;
 
 };
 
